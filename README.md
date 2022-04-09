@@ -1,5 +1,5 @@
 # Kathy_Portfolio
-Example data analytics portfolio
+
 
 
 # [Project 1: Olympic Games Dashboard](https://github.com/liuqiuye925/Olympic-Games-Dashboard)
