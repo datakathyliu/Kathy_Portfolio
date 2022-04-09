@@ -13,3 +13,6 @@ Example data analytics portfolio
 * Identified key indicators contributed to employee attrition and recommended strategic plans
 to improve retention.
 
+# [Project 3: Mall Customer Segmentation](https://github.com/datakathyliu/Mall-Customer-Segmentation)
+* Analyzed mall customers by clustering them using K-Means into segments based on their demographics and shopping behaviors.
+*	Recommended marketing activity strategies by understanding different segments of target customers
