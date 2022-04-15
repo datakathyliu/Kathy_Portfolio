@@ -19,5 +19,5 @@ to improve retention.
 
 # [Project 4: My Excercise Tracker](https://github.com/datakathyliu/My-Exercise-Tracker)
 * Recorded daily jogging or walking steps using a Excel file 
-* Imported data to Power BI, transform data, built relationships between tables
+* Imported data to Power BI, transformed data, built relationships between tables
 * Dashboard was built using Power BI showing total and average steps, steps by week of year, day of week and by activity etc.
